@@ -1,4 +1,4 @@
-# assignment-no-1        snack expo working
+# assignment-no-1        snacks expo working
 
 mobile development course Ehtasham daud satti 7389
 .snack react native app design 
